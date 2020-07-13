@@ -1,5 +1,5 @@
 # Human-Activity-Recognition-Project
-This repository contains a folder called UCI HAR Dataset, a run_analysis.R script, a CodeBook.Rmd file, and a Human-Activity-Recognition-Project.Rproj file (and of course tis README.md file). 
+This repository contains a folder called UCI HAR Dataset, a run_analysis.R script, a CodeBook.Rmd file, and a Human-Activity-Recognition-Project.Rproj file (and of course this README.md file). 
 
 The UCI HAR Dataset folder contains data and .txt files that provide detailed information about the data files. 
 
@@ -9,7 +9,7 @@ The CodeBook.Rmd file describes the UCI HAR data and variables. Much of the info
 
 This repository is self-contained and can be replicated by:
 
-1. Downloading / Cloning the repo
+1. Downloading / Cloning the repository
 2. Opening the Human-Activity-Recognition-Project.Rproj file
 3. Opening the run_analysis.R or CodeBook.Rmd file and running the code
 
